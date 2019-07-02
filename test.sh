@@ -1,4 +1,4 @@
-echo "running addition script"
+echo "running addition scripti-i7i-i7i-i7i-i7i-i7i-i7i-i7"
 # FIRSTNUMBER=10
 # SECONDNUMBER=20
 NUM=$(($FIRSTNUMBER+$SECONDNUMBER))
