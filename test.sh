@@ -3,4 +3,5 @@ echo "running addition script"
 # SECONDNUMBER=20
 NUM=$(($FIRSTNUMBER+$SECONDNUMBER))
 echo $NUM
+echo "running through jenkins integration"
 
