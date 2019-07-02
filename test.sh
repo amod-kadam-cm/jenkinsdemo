@@ -4,5 +4,5 @@ echo "running addition script"
 NUM=$(($FIRSTNUMBER+$SECONDNUMBER))
 echo $NUM
 echo "not working"
-echo "running through jenkins integration-5"
+echo "running through jenkins integration-6"
 
