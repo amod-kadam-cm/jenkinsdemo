@@ -1,4 +1,4 @@
-echo "running addition scripti-i7i-i7i-i7i-i7i-i7i-i7i-i7"
+echo "running addition scripti-id-8"
 # FIRSTNUMBER=10
 # SECONDNUMBER=20
 NUM=$(($FIRSTNUMBER+$SECONDNUMBER))
